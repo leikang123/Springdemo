@@ -1,2 +1,4 @@
 # Springdemo
 Spring框架的一些案例学习，IOC和AOP的学习demo
+springmvc主要是一些demo学习，了解Springmvc的原理和使用
+Springboot里面有一些集成的各种小组件。
